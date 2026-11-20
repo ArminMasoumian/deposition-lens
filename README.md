@@ -6,7 +6,7 @@ An **offline, source-linked deposition review** application built with Python an
 
 ## Demo Video
 
-[▶ Watch Deposition Lens Demo](./20261119_204543.mp4)
+https://github.com/user-attachments/assets/e0c78b52-e1e5-4471-948a-b4db7a4c9783
 
 ## Run
 
