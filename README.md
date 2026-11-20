@@ -4,6 +4,10 @@ An **offline, source-linked deposition review** application built with Python an
 
 **Scope:** This is a deterministic/legal-tech engineering prototype, **not** an LLM agent or legal advice. Page/line checks establish that an excerpt appears in the supplied file; they do **not** establish that the testimony is truthful, relevant, or legally significant. An attorney must check outputs against the original certified transcript.
 
+## Demo Video
+
+[▶ Watch Deposition Lens Demo](./20261119_204543.mp4)
+
 ## Run
 
 ```powershell
@@ -63,5 +67,3 @@ The public web app does not send text to an external language model; uploads are
 - `depo/verifier.py`, `depo/evaluate.py`: source-reference checks and sample evaluation
 - `tests/`: automated regression tests
 - `data/`: fictional sample transcript and annotated source locations
-
-**Not production-ready.** Test the local browser interface and PDF/TXT handling before public deployment.
