@@ -1,0 +1,5 @@
+# Web UI and text-based PDF extraction. Install: pip install -r requirements.txt
+streamlit>=1.36,<2
+pymupdf>=1.24,<2
+# Optional for external LLM modes: pip install openai  OR  pip install anthropic
+# Optional tests: pip install pytest

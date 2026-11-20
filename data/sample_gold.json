@@ -1,0 +1,100 @@
+[
+  {
+    "id": "F1",
+    "description": "Witness is a warehouse supervisor at Coastline Moving Company",
+    "page": 1,
+    "line_start": 4,
+    "line_end": 5
+  },
+  {
+    "id": "F2",
+    "description": "Started as a loader in March 2016, promoted to supervisor in 2018",
+    "page": 1,
+    "line_start": 7,
+    "line_end": 8
+  },
+  {
+    "id": "F3",
+    "description": "Worked the day shift 7:00 a.m. to 3:30 p.m. on October 14, 2024",
+    "page": 1,
+    "line_start": 11,
+    "line_end": 12
+  },
+  {
+    "id": "F4",
+    "description": "Was near Loading Dock 4 at about 2:15 p.m.",
+    "page": 1,
+    "line_start": 15,
+    "line_end": 16
+  },
+  {
+    "id": "F5",
+    "description": "Rivera slipped on a wet patch near a pallet jack and fell on his right side",
+    "page": 1,
+    "line_start": 21,
+    "line_end": 23
+  },
+  {
+    "id": "F6",
+    "description": "Wet patch was about three feet across",
+    "page": 1,
+    "line_start": 25,
+    "line_end": 25
+  },
+  {
+    "id": "F7",
+    "description": "No wet floor sign was near the patch",
+    "page": 2,
+    "line_start": 3,
+    "line_end": 4
+  },
+  {
+    "id": "F8",
+    "description": "Walked through the aisle at about 1:00 p.m. and noticed nothing",
+    "page": 2,
+    "line_start": 11,
+    "line_end": 12
+  },
+  {
+    "id": "F9",
+    "description": "Called first aid on the radio; attendant arrived about four minutes later",
+    "page": 2,
+    "line_start": 18,
+    "line_end": 20
+  },
+  {
+    "id": "F10",
+    "description": "Rivera said his hip hurt badly and he could not stand",
+    "page": 2,
+    "line_start": 22,
+    "line_end": 23
+  },
+  {
+    "id": "F11",
+    "description": "Witness filled out the incident report that evening and gave it to Tom Becker",
+    "page": 2,
+    "line_start": 25,
+    "line_end": 25
+  },
+  {
+    "id": "F12",
+    "description": "Took three photographs before the area was cleaned",
+    "page": 3,
+    "line_start": 3,
+    "line_end": 4
+  },
+  {
+    "id": "F13",
+    "description": "Since November 2024 supervisors sign an aisle inspection log every two hours",
+    "page": 3,
+    "line_start": 10,
+    "line_end": 11
+  },
+  {
+    "id": "F14",
+    "description": "Thinks the cleaning crew member was Luis Ortega but is not certain",
+    "page": 3,
+    "line_start": 24,
+    "line_end": 24
+  }
+]
